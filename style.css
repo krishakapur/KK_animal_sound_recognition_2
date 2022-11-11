@@ -1,0 +1,33 @@
+body{
+background: rgb(255, 255, 255);
+font-family: 'Akaya Telivigala', cursive;
+}
+.header_div{
+background: rgb(74, 74, 194);
+color: antiquewhite;
+}
+.header_div p{
+font-size: 12px;
+font-weight: bold;
+color: antiquewhite;
+font-family: 'Roboto Mono', sans-serif;
+letter-spacing: 1px;
+}
+.main_div button{
+    margin-top: 30px;
+    font-family:'Roboto Mono', sans-serif ;
+    letter-spacing: 3px;
+    font-weight: bolder;
+    width: 130px;
+}
+.copy_right_footer{
+color: rgb(122, 117, 117);
+font-size: 18px;
+text-align: center;
+width: 100%;
+position: fixed;
+bottom: 0px;
+background-color: rgb(231, 197, 197);
+line-height: 3;
+text-shadow: 5px 5px 5px gray;
+}
